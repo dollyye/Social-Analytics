@@ -1,4 +1,4 @@
-News Media Sentiment Analysis: Visualized summary of the sentiments expressed in Tweets sent out by the following news organizations: BBC, CBS, CNN, Fox, and New York times.
+News Media Sentiment Analysis: Visualized summary of the sentiments expressed in Tweets sent out by the following news organizations: BBC, CBS, CNN, Fox, and New York Times.
 
 Observations on March 11, 2018:
 1. CBS has the highest overall sentiment.
